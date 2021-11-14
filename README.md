@@ -11,5 +11,5 @@ Learn a few things about me:
 - 💬 Ask me about Python and JavaScript
 - 📫 How to reach me: You can email me on gnyokabi.alice@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: The World's largets and hottest desert, the Sahara Desert, spans 11 countries and covers approximately 9.4 million square kilometers
+<!-- - ⚡ Fun fact: The World's largets and hottest desert, the Sahara Desert, spans 11 countries and covers approximately 9.4 million square kilometers -->
 
